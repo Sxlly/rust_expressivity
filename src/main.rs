@@ -15,7 +15,4 @@ fn main() { //decalre main method
 
     product_of_four(31, 34, 65, 67); //call product_of_four function pass it -> 31,34,65,67
 
-
-
-
 }
